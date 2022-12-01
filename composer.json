@@ -1,0 +1,17 @@
+{
+    "name": "cryptonaut/ipfs",
+    "description": "resolve ipfs url",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurent",
+            "email": "olaniranlaurent@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "require": {}
+}
